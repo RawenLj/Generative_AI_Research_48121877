@@ -1,3 +1,10 @@
-# AI_Research
+# AI Research Project
 
-put some stuff - all data for the project
+Research on generative AI tools for REIT6811.
+
+## Folders
+- Literature_Review: Papers and articles
+- Quantitative_Data: Data and scripts  
+- Qualitative_Data: Interviews
+- Draft_and_Reports: Documents
+- Additional_Materials: Other files
